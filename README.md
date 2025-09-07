@@ -1,5 +1,5 @@
 # Hackathon-demo
 This is just a demo for the git repository
 <br>
-Author - Abhirup Kovid
+Author - Abhirup Kovid (Front-end)
 this change has been done by using edit and commit in readme.md
